@@ -1,6 +1,6 @@
 # Dowlatow Email Templates
 
-- [Club](/club_inlined.html)
+- Club [Исходник](/club_inlined.html) - [Посмотреть] (http://emails.volchkevich.pro/club_inlined.html)
 - [DI]()
 - [ScC]()
 - [MAK]()
