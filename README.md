@@ -1,6 +1,6 @@
 # Dowlatow Email Templates
 
-- [Club](/Сlub.html)
+- [Club](/club_inlined.html)
 - [DI]()
 - [ScC]()
 - [MAK]()
